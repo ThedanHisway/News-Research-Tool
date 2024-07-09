@@ -1,2 +1,2 @@
-# news-research-tool
-submission for GDSC hackathon 
+# News-Research-Tool Using LLM
+Submission for GDSC hackathon 
